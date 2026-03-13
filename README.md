@@ -20,8 +20,8 @@ I'm a final-year Computer Science student at **ITESM** with a concentration in *
 
 | Company | Role |
 |---|---|
-| **British American Tobacco (BAT)** | Developer – Technology & Innovation |
-| **EGADE / ITESM** | Software Developer |
+| **British American Tobacco (BAT)** | Developer – Technology & Innovation Intern|
+| **EGADE / ITESM** | Software Developer Intern|
 | **DiDi** | Data Analysis Intern |
 
 Currently at BAT, I build and maintain internal data pipelines using Python — handling data cleaning, transformation, and automation workflows used across the business.
