@@ -33,13 +33,13 @@ Currently at BAT, I build and maintain internal data pipelines using Python — 
 
 ## 🛠️ Tech Stack
 
-## Languages & Frameworks
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=Swift&logoColor=white)
 
-## Data & Cloud
+### Data & Cloud
 ![AWS](https://img.shields.io/badge/AWS-%2323FF9900?style=for-the-badge&logo=AWS&logoColor=white&color=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -47,7 +47,7 @@ Currently at BAT, I build and maintain internal data pipelines using Python — 
 ![Supabase](https://img.shields.io/badge/supabase-%233FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Design & Dev Tools**
+### Design & Dev Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
